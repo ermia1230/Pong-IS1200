@@ -31,7 +31,7 @@ Delve into the world of computer hardware engineering by exploring the synthesis
 1. Clone the repository to your local machine.
 2. Upload the game code to your microcontroller with the I/O shield using MCB32tools. 
 3. Explore the codebase to understand the intricate connections between software and hardware.
-4. Play and enjoy the Pong game, experiencing firsthand the synergy between computer hardware and engineering principles.
+4. Detailed info about how to play the game is on the file: "Datorteknik-miniProject/Project1 3"
 ## An image of the end-result
 <img width="376" alt="Screenshot 2023-12-25 at 06 15 39" src="https://github.com/ermia1230/Pong-IS1200/assets/149333804/1055c23e-7c2f-403b-8538-bd0b2f397e59">
 
