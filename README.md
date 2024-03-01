@@ -1,5 +1,6 @@
 # Pong Game on I/O Shield: Exploring Computer Hardware Engineering
 
+This project is done in a group with Teoman Köylüoglu. 
 ## Overview
 
 Welcome to the Pong Game on I/O Shield project! This venture into computer hardware engineering has been crafted to provide a hands-on exploration of Input/Output systems, serving as an educational journey in the realm of hardware interfaces. The focal point of this project is the creation of a classic Pong game, where the canvas for our digital masterpiece is none other than an I/O shield.
